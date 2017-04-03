@@ -1,0 +1,73 @@
+	@media (max-width: 768px) {
+  .text.col-xs-12 {
+    margin-top: 1.0em;
+    margin-bottom: 1.0em;
+  }
+  .maintext.col-xs-12 {
+    margin-top: 2.0em;
+    margin-bottom: 0.5em;
+  }
+  .image.col-xs-12 {
+    width: 100%;
+    padding-left: 0em;
+    padding-right: 0em;
+  }
+  .tittletext.col-xs-12 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-size: 3.0em;
+  }
+  tittleundertext {
+    font-size: 1.0em;
+  }
+  p {
+    margin-bottom: 0.8em;
+  }
+  .textimage {
+    padding-left: 0em;
+    padding-right: 0em;
+  }
+}
+
+@media (min-width: 1200px) {
+  .tittletext.col-lg-4 {
+    font-size: 3.5em;
+  }
+  .image.col-lg-8 {
+    width: 100%;
+    padding-left: 0em;
+    padding-right: 0em;
+  }
+  .textimage {
+    padding-left: 0em;
+    padding-right: 0em;
+  }
+  .partner-table {
+    display: table;
+  }
+  .partner {
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .row {}
+  .maintextrow.row {
+    margin-top: 4.0em;
+    margin-bottom: 4.0em;
+    width: 60%;
+    margin-left: 20%;
+  }
+  .maintext.col-lg-12 {
+    font-size: 1.5em;
+    text-align: left;
+  }
+  p {
+    margin-top: 1.0em;
+  }
+
+	body {
+        font-family: 'Josefin Slab', serif;
+      }
+
+      
